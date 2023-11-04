@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">работа_5</string>
+    <string name="cloudy">пасмурно</string>
+    <string name="syndey_19_may_2019_9_30pm">воскресенье, 19 Мая 2019 | 9:30PM</string>
+    <string name="mumbai_india">Мумбай, Индия</string>
+    <string name="_29">29</string>
+    <string name="_35_c">35°C ↑</string>
+    <string name="_27_c">27°C ↓</string>
+    <string name="_73">73%</string>
+    <string name="humidity">Влажность</string>
+    <string name="_1_009mbar">1,009mBar</string>
+    <string name="pressure">Давление</string>
+    <string name="_11km_h">11km/h</string>
+    <string name="wind">Ветер</string>
+    <string name="_6_03am">6:03AM</string>
+    <string name="sunrise">Восход</string>
+    <string name="_7_05pm">19:05PM</string>
+    <string name="sunset">Закат</string>
+    <string name="_13h_1m">13ч 1м</string>
+    <string name="daytime">Дневное время</string>
+</resources>

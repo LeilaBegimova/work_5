@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">work_5</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="syndey_19_may_2019_9_30pm">Syndey, 19 May 2019 | 9:30PM</string>
+    <string name="mumbai_india">Mumbai, India</string>
+    <string name="_29">29</string>
+    <string name="_35_c">35°C ↑</string>
+    <string name="_27_c">27°C ↓</string>
+    <string name="_73">73%</string>
+    <string name="humidity">Humidity</string>
+    <string name="_1_009mbar">1,009mBar</string>
+    <string name="pressure">Pressure</string>
+    <string name="_11km_h">11km/h</string>
+    <string name="wind">Wind</string>
+    <string name="_6_03am">6:03AM</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="_7_05pm">7:05PM</string>
+    <string name="sunset">Sunset</string>
+    <string name="_13h_1m">13h 1m</string>
+    <string name="daytime">Daytime</string>
+
+</resources>
